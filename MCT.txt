@@ -1,0 +1,26 @@
+NAME=T1-1, XH17, 1TO9, 0, 0, ROUND, 2D
+        , USER, 0, 0, NO, 
+        STRAIGHT, 0, 0, 0, X, 0, 0
+        0, YES, Y, 0
+        Y=42 ,730, NO, 0,0, NONE, , , , 
+        Y=342 ,730, NO, 0,0, NONE, , , , 
+        Y=1500 ,730, NO, 0,0, NONE, , , , 
+        Z=42 ,-60, NO, 0,0, NONE, , , , 
+        Z=342 ,-40, NO, 0,1000, NONE, , , , 
+        Z=1500 ,-40, NO, 0,0, NONE, , , , 
+NAME=T1-2, XH17, 9TO15, 0, 0, ROUND, 2D
+        , USER, 0, 0, NO, 
+        STRAIGHT, 0, 0, 0, X, 0, 0
+        0, YES, Y, 0
+        Y=2700 ,730, NO, 0,0, NONE, , , , 
+        Y=3500 ,730, NO, 0,0, NONE, , , , 
+        Z=2700 ,-40, NO, 0,0, NONE, , , , 
+        Z=3500 ,-40, NO, 0,0, NONE, , , , 
+NAME=T1-3, XH17, 15TO21, 0, 0, ROUND, 2D
+        , USER, 0, 0, NO, 
+        STRAIGHT, 0, 0, 0, X, 0, 0
+        0, YES, Y, 0
+        Y=2700 ,730, NO, 0,0, NONE, , , , 
+        Y=4000 ,730, NO, 0,0, NONE, , , , 
+        Z=2700 ,-40, NO, 0,0, NONE, , , , 
+        Z=4000 ,-40, NO, 0,0, NONE, , , , 
